@@ -1,0 +1,106 @@
+Nimeta välismaine seriaal	8
+Kodus ja võõrsil	25
+Sõbrad	20
+Modern Family	15
+Lucifer	10
+Black Mirror	9
+Money Heist	8
+Peaky Blinders	7
+Gossip Girl	6
+Nimeta Kätlini juuksevärv	6
+Blond	35
+Must	20
+Pruun	18
+Punane	17
+Hall	7
+Lilla	3
+Nimeta muusikastiil	5
+Räpp	35
+Techno	23
+DnB	20
+Indie	12
+Rock	10
+Nimeta Kätlini tätoveering	5
+Roosid	29
+Kirsipuu	27
+Päevalill	22
+Kuu ja mets	13
+Südamelöök	9
+Nimeta riik, kuhu Kätlin on reisinud	8
+India	24
+Hispaania/Ibiza	19
+Prantsusmaa	18
+Jaapan	14
+Ukraina	11
+Filipiinid	7
+Bulgaaria	6
+Wales	1
+Nimeta Kätlini töökoht	8
+Fienta	21
+Kolm Põrsakest	17
+Kolm Tilli	16
+Latikas/Empreste	15
+Sportland	14
+Oivaline	9
+Tänav	7
+Otto & Mesi	1
+Nimeta ettevõte, kellega Kätlin on koostööd teinud	5
+Tartu Mill	24
+Barebells	22
+Veski Mati	20
+Valio	18
+Pilaten	16
+Nimeta välismaine meesnäitleja	7
+Jason Statham	30
+Dwayne Johnson	20
+Tom Hardy	15
+Channing Tatum	11
+Ryan Reynolds	10
+Johnny Depp	9
+Bruce Willis	5
+Nimeta spordiala, millega Kätlin on tegelenud	6
+Jõusaal	30
+Poks	20
+Jooga/Verve	19
+Tantsimine	15
+Jooksmine	9
+Kickbox	7
+Nimeta Kätlini lemmik alkohoolne kokteil/jook	7
+Viina Shot	23
+Skinny Bitch	22
+Moscow mule	20
+Vein	14
+Aperol Spritz	11
+Gin & tonic	7
+Whiskey Sour	3
+EndGame
+Nimeta tegevus, mida teed ärgates esimesena	5
+Paned äratuse kinni/lükkad edasi	30
+Passid telefonis	25
+Lähed vetsu	23
+Paned riide	13
+Teed hommikusöögi	9
+Nimeta Kätlini lähisugulase nimi	5
+Maili(s)	27
+Tauno	23
+Arle	19
+Rico	17
+Hannah	14
+Nimeta toit, mis tihti läheb halvaks, enne, kui jõuad seda süüa	5
+Avokaado	23
+Banaan	22
+Seened	20
+Kohupiim	18
+Sai/leib	17
+Nimeta Kätlini tehtud küpsetis	5
+Toorjuustukook	26
+Saiakesed	24
+Kook/tort	22
+Küpsised	15
+Creme brule	13
+Mida sa teed, kui paned liiga kuuma toidu suhu?	5
+Sülitad välja	28
+Teed häähäähää	27
+Jood vett peale	18
+Neelad ruttu alla	15
+Tõmbad kurku	12
