@@ -35,7 +35,7 @@ public class ChangeGameState : MonoBehaviour
 
     private int nextQuestionIndex = 0;
 
-    private LinkedList<Question> questions;
+    private JSONQuestion[] questions;
 
     private FileController fileController;
 
@@ -62,9 +62,9 @@ public class ChangeGameState : MonoBehaviour
     {
         if (showingScore)
         {
-            if (questions.Count == 0 )
+            if (questions.Length <= nextQuestionIndex)
             {
-                Debug.Log("Game OVer");
+                Debug.Log("Game Over");
                 SceneManager.LoadScene("FastMoney");
             } else
             {
@@ -75,9 +75,9 @@ public class ChangeGameState : MonoBehaviour
                 questionButton.SetActive(true);
                 scoreButton.SetActive(false);
                 questionUI.SetActive(true);
-                questionUI.GetComponent<QuestionPreparer>().CreateGameBoard(questions.First.Value);
-                questions.RemoveFirst();
+                questionUI.GetComponent<QuestionPreparer>().CreateGameBoard(questions[nextQuestionIndex]);
                 theme.Stop();
+                nextQuestionIndex++;
             }
         } else
         {

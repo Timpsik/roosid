@@ -44,8 +44,8 @@ public class EndGameAnswerController : MonoBehaviour
         Debug.Log("Adding answers");
         for (int i = 0; i < qa.Count; i++)
         {
-            Debug.Log("Adding: " + ((QuestionAnswer) qa[i]).GetAnswer().ToLower());
-            answerDict.Add(((QuestionAnswer)qa[i]).GetAnswer().ToLower(), ((QuestionAnswer)qa[i]).GetPoints());
+            Debug.Log("Adding: " + ((JSONAnswer) qa[i]).value.ToLower());
+            answerDict.Add(((JSONAnswer)qa[i]).value.ToLower(), ((JSONAnswer)qa[i]).points.ToString());
         }
 
 

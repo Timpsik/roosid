@@ -4,22 +4,22 @@ using UnityEngine;
 
 public class FamilyFeudGame 
 {
-    private LinkedList<Question> mainGameQuestions;
-    private LinkedList<Question> endGameQuestions;
+    private JSONQuestion[] mainGameQuestions;
+    private JSONQuestion[] endGameQuestions;
 
 
-    public FamilyFeudGame(LinkedList<Question> mainGameQuestions, LinkedList<Question> endGameQuestions)
+    public FamilyFeudGame(JSONQuestion[] mainGameQuestions, JSONQuestion[] endGameQuestions)
     {
         this.mainGameQuestions = mainGameQuestions;
         this.endGameQuestions = endGameQuestions;
     }
 
-    public LinkedList<Question> GetMainGameQuestions()
+    public JSONQuestion[] GetMainGameQuestions()
     {
         return mainGameQuestions;
     }
 
-    public LinkedList<Question> GetEndGameQuestions()
+    public JSONQuestion[] GetEndGameQuestions()
     {
         return endGameQuestions;
     }
